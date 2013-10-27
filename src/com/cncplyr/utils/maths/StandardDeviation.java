@@ -1,4 +1,4 @@
-package com.cncplyr.util.maths;
+package com.cncplyr.utils.maths;
 
 import java.util.List;
 
